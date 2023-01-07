@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* Head title style */
+.header{
+    background-image: url(../new-year-new-me-main/images/banner/banner1.png);
+    background-position:center; 
+    width: 1600px;
+    height: 808px; 
+    align-items: center; 
+}
+.head-title{
+    text-align: right;
+    font-weight: 700px;
+    font-size: 65px;
+    padding: 216px 230px 24px 845px;    
+}
+/* descriotion styles */
+.head-description{
+    text-align: right;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 24px 230px 0px 876px;
+    color: #444343;
+}
+.btn-primary{
+    margin: 32px 230px 166px 1250px;
+    width: 130px;
+    height: 44px
+}
+.btn-primary{
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0px;
+    background: #F15B22;
+    border-radius: 5px;
+}
+/* Main designe */
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.failure{
+    width: 1600px;
+}
+.failure-title{
+    margin: 370px 322px 24px 0px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.failure-pera{
+    margin-right: 322px;
+}
+.image{
+    margin: 131px 87px 0px;
+    background-color: bisque;
+    width: 569px;
+    height: 723px;
+    border-radius: 50%;
+}
+ul {
+    list-style: none;
+}
+  
+ul li:before {
+    content: '✓';
+    color: olive;
+}
+/* Plan styles */
+.my-plan{
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 55px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+.plan-description{
+    font-size: 25px;
+    margin-bottom: 130px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+/* Quote style */
+.quote{
+    background-image: url(../new-year-new-me-main/images/gradient2.png), url(../new-year-new-me-main/images/watch.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position:right,right;
+    width: 1140px;
+    height: 300px;
+    margin:0px 200px 130px;
+}
+.quote-head{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    padding: 59px 617px 59px 64px;
+}
+.btn-secondary{
+    color:#F15B22;
+    background-color: white;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    padding: 21px 30px;
+    margin: -59px 916px 59px 64px;
+    border-radius: 5px;
+    border: none;
+}
+/* footer styles */
+.footer{
+    background-color: black;
+    color: white;
+}
+.future-sub{
+    display: flex;
+    justify-content: space-around;
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 16px 0px;
+}
+.future-description{
+    width: 485px;
+    height: 78px
+}
+.future-mail{
+    margin-bottom: 24px;
+}
+.sub-intro{
+    margin: 31px 0px;
+    font-weight: 600;
+    font-size: 25px;
+
+}
+.sub-mail{
+    background-color: black;
+    color: #F3F3F3;
+    padding: 21px 158px 22px 21px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.btn-third{
+    margin-top:16px;
+    font-weight: 600;
+    font-size: 20px;
+    color:#F15B22;
+    background-color: white;
+    text-align: center;
+    padding: 21px 30px;
+    border-radius: 5px;
+    border: none;
+}
+.footer-img{
+    margin: 32px 0px 130px 150px;
+}
+.social{
+    padding: 5px;
+}
