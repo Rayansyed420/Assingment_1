@@ -4,7 +4,7 @@
 }
 /* Head title style */
 .header{
-    background-image: url(../new-year-new-me-main/images/banner/banner1.png);
+    background-image: url(./images/banner/banner1.png);
     background-position:center; 
     width: 1600px;
     height: 808px; 
@@ -94,7 +94,7 @@ ul li:before {
 }
 /* Quote style */
 .quote{
-    background-image: url(../new-year-new-me-main/images/gradient2.png), url(../new-year-new-me-main/images/watch.png);
+    background-image: url(./images/gradient2.png), url(./images/watch.png);
     background-repeat: no-repeat, no-repeat;
     background-position:right,right;
     width: 1140px;
